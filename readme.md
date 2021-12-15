@@ -1,2 +1,2 @@
 # Profile Views
-![](https://komarev.com/ghpvc/?username=9ZE)
+![](https://gpvc.arturio.dev/9ze)
